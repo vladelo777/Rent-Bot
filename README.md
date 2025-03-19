@@ -15,7 +15,8 @@
 - Хранение данных: **JSON-файл**  
 - Асинхронная работа: **asyncio**  
 
-<img src="Photo-Example.png" width="600" style="display: block; margin: auto;">
+<img src="Photo-Example1.png" width="600" style="display: block; margin: auto;">
+<img src="Photo-Example2.png" width="600" style="display: block; margin: auto;">
 
 ## 🛠️ Установка и запуск
 1. Клонируйте репозиторий:
